@@ -1,6 +1,4 @@
-# Earth Hates me Playtesting Log
-
-# Playtest Report Survey
+# Earth Hates Me: Playtest Survey
 
 ## Basic Info
   * Version playtested:
