@@ -6,5 +6,9 @@ Click [here](https://github.com/yipcma/circularity-pnp/releases/tag/v0.1-alpha) 
 
 Click [here](https://github.com/yipcma/circularity-pnp/issues/new) to file a playtest report so we can make the game better, together.
 
+![Common Deck](/showcase_common.png)
+
+![Earth Deck](/showcase_earth.png)
+
 Updated Oct 16, 2017
 
