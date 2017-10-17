@@ -1,5 +1,7 @@
 ## Welcome to Game of Circularity
 
+Earth Hates Me is a game of survival, co-existence, and profit. It begins with a business-as-usual scenario where every player builds their town gradually. The game becomes more intricate as more buildings, events, ruses, and paradigm shifts come into play, affecting everyone at the table and the Earth.
+
 ### Version 0.2-alpha is released!
 
 Click [here](https://github.com/yipcma/circularity-pnp/releases) to download Earth Hates Me: the Card Game
