@@ -10,7 +10,7 @@ Click [here](https://github.com/yipcma/circularity-pnp/releases) to print and pl
 
 Click [here](https://github.com/yipcma/circularity-pnp/issues/new) to file a playtest report so we can make the game better, together.
 
-<iframe width="680" height="340" frameborder="0" allowtransparency="true" scrolling="no" src="https://tabletopia.com/workshop/widget/earth-hates-me-ggwymo/680x340"></iframe>
+<iframe width="680" height="340" frameborder="0" allowtransparency="true" scrolling="no" src="https://tabletopia.com/workshop/widget/earth-hates-me-ggwymo/1880x546"></iframe>
 
 Updated Oct 21, 2017
 
